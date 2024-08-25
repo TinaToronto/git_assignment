@@ -1,4 +1,4 @@
-# Git Assignment - TinaToronto
+# Git Assignment - TinaToronto - Aug 24, 2024
 a. What is an issue?
 
 [TL] - GitHub Issues are a way to track and manage the work needed to improve your projects. Each issue can represent a task, bug report, or feature request and can be assigned to team members, tagged with labels, and linked to milestones.
